@@ -262,7 +262,7 @@ Captura una sesión SIP de una conversación con el número SIP sip:9999@qxip.ne
   
  ** ¿Podrías reproducir la conversación desde Wireshark? ¿Cómo? Comprueba que poniendo un valor demasiado pequeño para el buffer de jitter, la conversación puede no tener la calidad necesaria.
  Sí. Siguiendo los siguientes pasos: Telephony, RTP, Show All Streams. 
- A continuación seleccionas un flujo, Analyze, Play Streams y View as time of day.
+ A continuación, seleccionas un flujo --> Analyze, Play Streams.
  
  ** ¿Sabrías decir qué tipo de servicio ofrece sip:9999@qxip.net?
  Sí, ofrece un servicio de audio.
