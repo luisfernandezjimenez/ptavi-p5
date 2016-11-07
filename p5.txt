@@ -243,6 +243,7 @@ Captura una sesión SIP de una conversación con el número SIP sip:9999@qxip.ne
  
  ** ¿Es necesario el uso de DNS y STUN? ¿Por qué?
  
+ 
  ** ¿Son diferentes el registro y la descripción de la sesión?
  No, son iguales.
 
